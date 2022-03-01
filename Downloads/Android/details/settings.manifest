@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2981611593
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5149dd90b93df437e1257844aa84880d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5b83860e7f0738deec5aae16efdca94b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5331f59867782c14096456abb94de423, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/PictureQuizPlus/Resources/details/settings/Game.asset
+Dependencies: []
